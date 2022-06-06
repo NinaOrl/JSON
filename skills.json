@@ -1,10 +1,5 @@
 {
-<<<<<<< HEAD
-    "Skills": 
-	["GIT_Bash_and_Github": "Usage, main commands",
-=======
-        "GIT_Bash_and_Github": "Usage, main commands",
->>>>>>> ebdfab1710a4b33aa5c632960fe13cd0ff4eb1d3
+	"GIT_Bash_and_Github": "Usage, main commands",
 	"Basic_theory": "Bug reports, client-server model, types, methods and ways of testing",
 	"HTTP": "Methods of requests,codes of answers, structure of requests and answers",
 	"JSON/XML": "Definitions, structures",
@@ -15,9 +10,5 @@
 	"SQL": "Create, Delete, Drop, Insert Info, Select, From, Where, Join",
 	"Postgres": "Settings and Usage", 
 	"Postman": "JS, autotests API",
-<<<<<<< HEAD
-	"Charles_and_Fiddler": "Web traffic sniffing"]
-=======
 	"Charles_and_Fiddler": "Web traffic sniffing"
->>>>>>> ebdfab1710a4b33aa5c632960fe13cd0ff4eb1d3
 }
